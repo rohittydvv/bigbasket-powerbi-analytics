@@ -64,7 +64,7 @@ The report uses a rich DAX layer and interactive features:
 
 ## 🖼️ Screenshot
 
-![Diagram](data_architecture%20(3).jpg)
+![Diagram](screenshots/dashboard_overview.jpg)
 
 ## 📁 Repository Structure
 
